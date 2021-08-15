@@ -32,11 +32,15 @@ header h1 {
 }
 
 header img {
-  width: 3vw;
+  width: 80px;
   float: right;
   position: absolute;
   right: 5vw;
   top: 2vw;
+}
+
+img.plant {
+  height: 100px;
 }
 
 /* form styling */
